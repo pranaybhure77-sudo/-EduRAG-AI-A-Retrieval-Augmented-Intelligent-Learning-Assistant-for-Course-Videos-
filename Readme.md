@@ -2,15 +2,7 @@
 🎓 RAG-Based AI Teaching Assistant
 
 Ask questions. Retrieve lecture knowledge. Get context-based answers.
-![image alt][https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/fa731c0f5d240c07275dcb6e6257bc5d85483a6c/_UkkLkP7yaMmzNJMxcBjjpOxNXmQH9NDFpljDsGKixWPq_9WPGTeksRIZnqQMboKjdFHTywm4lNjCxArCEtVQDJMi4pGUPhQrgw9W8J2AyuPKlBgffd217nUrRGQDzkEDNuVIz-S6Rg4EAvChBoC5uahGvaj_itcecE1ItR8eY36wM-1v94B4lM-ZQvtuD7J.jpg](https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/d6e8d561706abdfb4dfca6f5c5f426fef31f975d/Neon%20RAG%20AI%20Teaching%20Assistant%20Infographic.png)
-
-
-
-
-roshankodi.github.io
-
-
-
+![image alt](https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/43432035696bdf488e21b66728e8be870bfcbd22/Screenshot%202026-11-03%20140339.png)
 Purpose
 The application allows students to ask questions about recorded video lectures and receive answers based on the lecture content. Instead of searching through an entire video, the system finds relevant transcript segments and passes them to an LLM to generate an answer.
 
