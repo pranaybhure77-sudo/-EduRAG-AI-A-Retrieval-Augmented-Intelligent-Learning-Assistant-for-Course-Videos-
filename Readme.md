@@ -375,3 +375,9 @@ If you find this project useful:
 
 </p>
 
+
+
+![image alt](https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/dc8ebc6dc4b30c91f30038d8d783c8c0ee2c8b87/Screenshot%202026-11-03%20141511.png)
+
+
+![image alt](https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/dc8ebc6dc4b30c91f30038d8d783c8c0ee2c8b87/Screenshot%202026-11-03%20141533.png)
