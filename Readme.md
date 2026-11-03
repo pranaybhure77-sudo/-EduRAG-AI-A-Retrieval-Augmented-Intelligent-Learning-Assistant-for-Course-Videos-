@@ -2,7 +2,7 @@
 🎓 RAG-Based AI Teaching Assistant
 
 Ask questions. Retrieve lecture knowledge. Get context-based answers.
-![image alt]https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/fa731c0f5d240c07275dcb6e6257bc5d85483a6c/_UkkLkP7yaMmzNJMxcBjjpOxNXmQH9NDFpljDsGKixWPq_9WPGTeksRIZnqQMboKjdFHTywm4lNjCxArCEtVQDJMi4pGUPhQrgw9W8J2AyuPKlBgffd217nUrRGQDzkEDNuVIz-S6Rg4EAvChBoC5uahGvaj_itcecE1ItR8eY36wM-1v94B4lM-ZQvtuD7J.jpg
+![image alt][https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/fa731c0f5d240c07275dcb6e6257bc5d85483a6c/_UkkLkP7yaMmzNJMxcBjjpOxNXmQH9NDFpljDsGKixWPq_9WPGTeksRIZnqQMboKjdFHTywm4lNjCxArCEtVQDJMi4pGUPhQrgw9W8J2AyuPKlBgffd217nUrRGQDzkEDNuVIz-S6Rg4EAvChBoC5uahGvaj_itcecE1ItR8eY36wM-1v94B4lM-ZQvtuD7J.jpg](https://github.com/pranaybhure77-sudo/-EduRAG-AI-A-Retrieval-Augmented-Intelligent-Learning-Assistant-for-Course-Videos-/blob/d6e8d561706abdfb4dfca6f5c5f426fef31f975d/Neon%20RAG%20AI%20Teaching%20Assistant%20Infographic.png)
 
 
 
