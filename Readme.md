@@ -6,7 +6,7 @@ Ask questions. Retrieve lecture knowledge. Get context-based answers.
 
 
 
-
+https://images.openai.com/static-rsc-4/_UkkLkP7yaMmzNJMxcBjjpOxNXmQH9NDFpljDsGKixWPq_9WPGTeksRIZnqQMboKjdFHTywm4lNjCxArCEtVQDJMi4pGUPhQrgw9W8J2AyuPKlBgffd217nUrRGQDzkEDNuVIz-S6Rg4EAvChBoC5uahGvaj_itcecE1ItR8eY36wM-1v94B4lM-ZQvtuD7J?purpose=fullsize
 
 
 roshankodi.github.io
@@ -43,71 +43,74 @@ Recommendation: Keep your existing Python pipeline as the first working version.
 2. Repository structure
 Here is a suggested GitHub structure for the expanded project:
 rag-ai-teaching-assistant/
-│
-├── frontend/
-│   ├── public/
-│   │   └── favicon.svg
-│   └── src/
-│       ├── components/
-│       │   ├── ChatWindow.jsx
-│       │   ├── MessageBubble.jsx
-│       │   ├── SourceCard.jsx
-│       │   └── Sidebar.jsx
-│       ├── pages/
-│       │   └── Home.jsx
-│       ├── services/
-│       │   └── api.js
-│       └── App.jsx
-│
-├── backend/
-│   ├── app/
-│   │   ├── main.py
-│   │   ├── config.py
-│   │   ├── api/
-│   │   │   └── routes.py
-│   │   ├── rag/
-│   │   │   ├── embeddings.py
-│   │   │   ├── retriever.py
-│   │   │   └── generator.py
-│   │   └── ingestion/
-│   │       ├── video_loader.py
-│   │       ├── transcriber.py
-│   │       └── chunker.py
-│   └── requirements.txt
-│
-├── data/
-│   ├── videos/
-│   ├── audios/
-│   └── jsons/
-│
-├── models/
-│   └── README.md
-│
-├── scripts/
-│   ├── video_to_mp3.py
-│   ├── mp3_to_json.py
-│   ├── preprocess_json.py
-│   └── process_incoming.py
-│
-├── tests/
-│   ├── test_chunking.py
-│   └── test_retrieval.py
-│
-├── docs/
-│   ├── architecture.md
-│   └── api.md
-│
-├── .github/
-│   └── workflows/
-│       └── python-tests.yml
-│
-├── .env.example
-├── .gitignore
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── LICENSE
-├── README.md
-└── docker-compose.yml
+
+
+
+ │
+ ├── frontend/
+ │   ├── public/
+ │   │   └── favicon.svg
+ │   └── src/
+ │       ├── components/
+ │       │   ├── ChatWindow.jsx
+ │       │   ├── MessageBubble.jsx
+ │       │   ├── SourceCard.jsx
+ │       │   └── Sidebar.jsx
+ │       ├── pages/
+ │       │   └── Home.jsx
+ │       ├── services/
+ │       │   └── api.js
+ │       └── App.jsx
+ │
+ ├── backend/
+ │   ├── app/
+ │   │   ├── main.py
+ │   │   ├── config.py
+ │   │   ├── api/
+ │   │   │   └── routes.py
+ │   │   ├── rag/
+ │   │   │   ├── embeddings.py
+ │   │   │   ├── retriever.py
+ │   │   │   └── generator.py
+ │   │   └── ingestion/
+ │   │       ├── video_loader.py
+ │   │       ├── transcriber.py
+ │   │       └── chunker.py
+ │   └── requirements.txt
+ │
+ ├── data/
+ │   ├── videos/
+ │   ├── audios/
+ │   └── jsons/
+ │
+ ├── models/
+ │   └── README.md
+ │
+ ├── scripts/
+ │   ├── video_to_mp3.py
+ │   ├── mp3_to_json.py
+ │   ├── preprocess_json.py
+ │   └── process_incoming.py
+ │
+ ├── tests/
+ │   ├── test_chunking.py
+ │   └── test_retrieval.py
+ │
+ ├── docs/
+ │   ├── architecture.md
+ │   └── api.md
+ │
+ ├── .github/
+ │   └── workflows/
+ │       └── python-tests.yml
+ │
+ ├── .env.example
+ ├── .gitignore
+ ├── CONTRIBUTING.md
+ ├── CODE_OF_CONDUCT.md
+ ├── LICENSE
+ ├── README.md
+ └── docker-compose.yml
 
 
 This is the proposed expanded structure. Your current scripts can initially remain under scripts/; move them into backend/app/ as you modularize the project.
