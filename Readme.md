@@ -6,9 +6,6 @@ Ask questions. Retrieve lecture knowledge. Get context-based answers.
 
 
 
-https://images.openai.com/static-rsc-4/_UkkLkP7yaMmzNJMxcBjjpOxNXmQH9NDFpljDsGKixWPq_9WPGTeksRIZnqQMboKjdFHTywm4lNjCxArCEtVQDJMi4pGUPhQrgw9W8J2AyuPKlBgffd217nUrRGQDzkEDNuVIz-S6Rg4EAvChBoC5uahGvaj_itcecE1ItR8eY36wM-1v94B4lM-ZQvtuD7J?purpose=fullsize
-
-
 roshankodi.github.io
 
 
